@@ -1,0 +1,23 @@
+CACHE MANIFEST 
+
+CACHE: 
+style.css
+index.html
+int64.js
+exploit.js
+jbc_loader.js
+malloc.js
+frontend.js
+netcat.js
+payload.js
+relocator.js
+rop.js
+rop2.js
+kexploit.js
+syscalls.js
+syscalls2.js
+webkit.js
+webrte.bin
+
+NETWORK: 
+* 
