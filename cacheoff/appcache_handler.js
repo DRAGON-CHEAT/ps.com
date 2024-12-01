@@ -32,19 +32,19 @@ function add_cache_event_toasts() {
     var appCache = window.applicationCache;
     
     if (!navigator.onLine) {
-        showToast('Off-line');
+        showToast('You are offline.');
     }
 
     appCache.addEventListener('cached', function (e) {
-        showToast('Finished caching site');
+        showToast('Finished caching site.');
     }, false);
 
     // appCache.addEventListener('checking', function (e) {
-    //     showToast('Checking for updates');
+    //     showToast('Checking for updates.');
     // }, false);
 
     appCache.addEventListener('downloading', function (e) {
-        showToast('Downloading cache');
+        showToast('Downloading new cache.');
     }, false);
 
     appCache.addEventListener('error', function (e) {
@@ -55,20 +55,20 @@ function add_cache_event_toasts() {
     }, false);
 
     appCache.addEventListener('noupdate', function (e) {
-        showToast('Cache is up');
+        showToast('Cache is up-to-date.');
     }, false);
 
     appCache.addEventListener('obsolete', function (e) {
-        showToast('Site is obsolete');
+        showToast('Site is obsolete.');
     }, false);
 
     // appCache.addEventListener('progress', function (e) {
-    //     showToast('Caching site');
+    //     showToast('Caching site.');
     // }, false);
 
     appCache.addEventListener('updateready', function (e) {
         if (window.applicationCache.status == window.applicationCache.UPDATEREADY) {
-            showToast('Site is updated. Refresh browser',8000);
+            showToast('The site was updated. Refresh to switch to updated version',8000);
         }
     }, false);
 
