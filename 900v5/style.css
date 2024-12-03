@@ -1,0 +1,216 @@
+html { 
+    background-image: url("dc.jpg");background-position: center;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #24272b;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1 {
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-size: 25px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+#progress {
+    display: block;
+}
+
+#menu {
+    display: block;
+}
+
+#crypto {
+    display: none;
+}
+
+#tools {
+    display: none;
+}
+
+#lnx {
+    display: none;
+}
+
+#mods {
+    display: none;
+}
+
+.btn {
+    background-color: #003263;
+    color: white;
+    width: 227px;
+    height: 46px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+.btn2 {
+    background-color: #003263;
+    color: white;
+    width: 100px;
+    height: 28px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: -2px;
+    margin-left: -640px;
+    margin-right: 655px;
+    border-style: left;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+.btn3 {
+    background-color: #003263;
+    color: white;
+    width: 227px;
+    height: 46px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 1px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    margin-left: -6000px;
+    margin-right: 5px;
+    border-style: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+.btn4 {
+    background-color: #003263;
+    color: white;
+    width: 580px;
+    height: 46px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 14px;
+ }   
+
+.btn5 {
+    background-color: #630063;
+    color: white;
+    width: 227px;
+    height: 46px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 14px;
+ }
+
+.btn-ps5 {
+    background-color: #ab851b;
+    color: white;
+    width: 227px;
+    height: 46px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 14px;
+ }
+
+.btn:hover {
+    background-color: #0f5bab;
+    border: solid 1px rgb(0, 100, 255);
+    box-shadow: inset 200px 0px 0px rgb(0, 100, 255);
+    animation: ani 1s;
+}
+
+.btn5:hover {
+    background-color: #9c1389;
+    border: solid 1px rgb(66, 100, 11);
+    box-shadow: inset 200px 0px 0px #d902bc;
+    animation: ani 4s;
+    
+}
+
+.btn-alt {
+    background-color: #b10000;
+}
+
+.btn-alt:hover {
+    background-color: #f31414;
+}
+
+.btn-onln {
+    background-color: #076300;
+}
+
+.btn-onln:hover {
+    background-color: #18891b;
+    border: solid 1px rgb(66, 100, 11);
+    box-shadow: inset 200px 0px 0px #12b818;
+    animation: ani 4s; 
+}
+
+.btn-toolbox {
+    background-color: #ae2301;
+}
+
+.btn-toolbox:hover {
+    background-color: #9e3318;
+    border: solid 1px rgb(66, 100, 11);
+    box-shadow: inset 200px 0px 0px #d42a01;
+    animation: ani 4s;
+}
+
+.btn-ps5:hover {
+    background-color: #ab851b;
+    border: solid 1px rgb(66, 100, 11);
+    box-shadow: inset 200px 0px 0px #e8bd48;
+    animation: ani 4s;
+}
+
+.btn-ps3 {
+    background-color: #4a4747;
+}
+
+.btn-ps3:hover {
+    background-color: #403f40;
+    border: solid 1px #292629;
+    box-shadow: inset 200px 0px 0px #2e2d2e;
+    animation: ani 4s;
+}
