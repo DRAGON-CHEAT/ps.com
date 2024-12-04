@@ -1,12 +1,12 @@
 const payload_map =  
     [
         {
-            displayTitle: 'etaHEN v6',
+            displayTitle: 'etaHEN v8',
             description: 'Runs Hen With FPKG enabler For FW 4.00-4.51 Only.',
             fileName: 'etaHEN-1.6B.bin',
             author: 'Dragon&cheat× أظغط هنا لتفعيل اليتيهين ',
             source: 'https://github.com/LightningMods/etaHEN',
-            version: '1.6'
+            version: '1.8'
         },
         {
             displayTitle: 'K-Stuff',
@@ -30,7 +30,7 @@ const payload_map =
             fileName: 'libhijacker-1.142.elf',
             author: 'dragoncheat× بتش رفع فريمات الالعاب مع ريندر جيتات ',
             source: 'https://github.com/illusion0001/libhijacker/releases',
-            version: '1.142'
+            version: '1.160'
         },
 
     ];
