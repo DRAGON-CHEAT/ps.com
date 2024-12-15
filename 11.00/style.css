@@ -236,7 +236,7 @@ html{
     display: fixed;
     position: fixed;
     bottom: 20px;
-    top: 0em;
+    top: 1em;
     z-index: 99;
     background: linear-gradient(0deg, rgba(22,15,15,0.8673844537815126) 0%, rgba(25,19,40,0.9962359943977591) 56%, rgba(9,8,15,0.9654236694677871) 84%);
     border: none;
