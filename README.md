@@ -1,17 +1,17 @@
 
 # PS3 - PS4 - PS5 Exploit Host
-PS4 Firmwares:   `6.00~9.00~9.60`    
-PS3 Firmwares:  `Hen4.90`
-
+PS4 Firmwares:   `6.00~9.00~9.60`  
+PS3 Firmwares:  `Hen 4.90`
 PS5 Firmwares: `3.XX` `4.XX` 
+PS5 Firmwares: `1.XX` `5.50.XX`
 
 My Channel telegram:
 [https://t.me/DraGoN_CheAT_for_Ps_jailbreak]
 
 my website:
-( https://linksly.co/qTyQ3PCO )
+( xxxxxxx)
 onlive tv:
-( https://linksly.co/wJ51R )
+( xxxx)
 ## Steps:
 
 - In the console browser go to:
