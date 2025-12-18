@@ -1,10 +1,6 @@
 # PSFree
 PSFree is a unstable and work in progress jailbreak multi firmware website for the PlayStation 4 and the PlayStation 5.
 
-This repo is based on the work of two other repo :
-- [PSFree from Kame repo](https://github.com/kmeps4/PSFree) 
-- [PSFree from Al-Azif repo](https://github.com/Al-Azif/psfree-lapse)
-
 <h1 style="color:red;text-align:center;">⚠️PLEASE DO NOT REPORT ERRORS FROM THIS REPO TO THEIR REPOS⚠️</h1>
 
 <h2 style="color:red;text-align:center;">⚠️PLEASE TEST OTHER REPOS BEFORE OPENING A ISSUE ON THIS REPO⚠️</h2>
@@ -27,12 +23,7 @@ This repo only support PS4 for now.
 | PS4 | 7.00 - 9.60 |
 
 
-# How to run
-
-## Website
-[Click Here](https://nazky.github.io/PSFree/)
-
-## Locally
+# How to run Locally
 
 You need python !
 
